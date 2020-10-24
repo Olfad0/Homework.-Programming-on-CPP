@@ -1,0 +1,2 @@
+﻿  Задание B3 код.cpp
+C:\Users\maksi\source\repos\Задание B3\Задание B3\Задание B3 код.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

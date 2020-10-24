@@ -1,0 +1,3 @@
+﻿  Задание A3 код.cpp
+C:\Users\maksi\source\repos\Задание A3\Задание A3\Задание A3 код.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Задание A3.vcxproj -> C:\Users\maksi\source\repos\Задание A3\Debug\Задание A3.exe

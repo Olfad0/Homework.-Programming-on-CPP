@@ -12,7 +12,7 @@ for i in range(1, size):
         break
 
     else:
-        j = True
+        j = False
 
 if j == True:
     print("YES\n")
